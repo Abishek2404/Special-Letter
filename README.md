@@ -125,7 +125,7 @@ npm -v
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/special-letter.git
+git clone https://github.com/Abishek2404/Special-Letter.git
 
 2. Navigate to Project Directory
 
@@ -190,34 +190,6 @@ Desktop Screens
 
 ---
 
-🔥 Future Roadmap
-
-Version 2.0
-
-User Authentication
-
-Multiple Themes
-
-Dark Mode
-
-Background Music Support
-
-AI-Powered Letter Generation
-
-Custom Templates
-
-Letter Scheduling
-
-PDF Export
-
-QR Code Sharing
-
-Cloud Storage Integration
-
-
-
----
-
 🤝 Contributing
 
 Contributions are welcome.
@@ -248,11 +220,3 @@ git push origin feature/AmazingFeature
 5. Open a Pull Request
 
 
-
-
-💖 Acknowledgements
-
-Special thanks to everyone who inspires creativity, friendship, and meaningful connections that make projects like this possible.
-
-
-"Every message tells a story. Make yours unforgettable."
